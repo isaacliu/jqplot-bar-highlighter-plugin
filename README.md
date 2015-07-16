@@ -10,3 +10,5 @@ var opts = {fillStyle: s.highlightColors[pidx]};
 
 Fix adapted: https://bitbucket.org/cleonello/jqplot/issues/514/the-highlighter-point-is-always-on-the
 
+3. jquery.jqplot.js - add horizontal dash line for line chart by setting ctx.setLineDash([2, 5]);
+
