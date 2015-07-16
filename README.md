@@ -1,0 +1,1 @@
+# jqplot-bar-highlighter-plugin
